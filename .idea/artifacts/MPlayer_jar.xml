@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MPlayer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MPlayer_jar</output-path>
+    <root id="archive" name="MPlayer.jar">
+      <element id="module-output" name="MPlayer" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/jlayer-1.0.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
